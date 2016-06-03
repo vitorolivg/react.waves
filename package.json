@@ -1,6 +1,6 @@
 {
   "name": "react.waves",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Draws water waves — ",
   "main": "index.js",
   "repository": {
@@ -28,7 +28,7 @@
     "compile": "rimraf lib && babel src --ignore __tests__ --out-dir lib"
   },
   "files": [
-    "LICENSE",
+    "LICENSE.md",
     "README.md",
     "CHANGELOG.md",
     "index.js",

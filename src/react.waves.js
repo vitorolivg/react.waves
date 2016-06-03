@@ -30,7 +30,7 @@ export default class Waves extends Component {
 	render() {
 
 		return (
-	  <div id="ocean"></div>
+	  <div id="ocean">{this.props.children}</div>
 		)
 	};
 }
